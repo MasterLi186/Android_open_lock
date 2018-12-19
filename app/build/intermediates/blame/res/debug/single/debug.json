@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_code_lock_default_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_code_lock_default_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_drag_direction_red_up.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_drag_direction_red_up.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_circle_normal.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_circle_normal.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_point_area_default.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_default.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_drag_direction_red_up_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_drag_direction_red_up_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_code_lock_touched_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_code_lock_touched_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_code_lock_default.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_code_lock_default.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_point_area_red_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_red_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_circle_pressed.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_circle_pressed.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_point_area_green.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_green.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_code_lock_touched.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_code_lock_touched.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_drag_direction_green_up_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_drag_direction_green_up_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_circle_disable_focused.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_circle_disable_focused.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_point_area_red.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_red.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main.xml.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\menu\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_circle_disable.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_circle_disable.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_point_area_default_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_default_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_indicator_code_lock_point_area_green_holo.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\indicator_code_lock_point_area_green_holo.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Android jiesuo\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_circle_selected.png.flat",
+        "source": "D:\\Android jiesuo\\app\\src\\main\\res\\drawable-hdpi\\btn_circle_selected.png"
+    }
+]
